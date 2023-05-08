@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ma page HTML</title>
+</head>
+<body>
+	<div>
+		<div class="sketchfab-embed-wrapper">
+			<iframe title="BOITE FRUITS 2" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1080" height="1080" src="https://sketchfab.com/models/de4ad7ad9a5a4677958bbb2fce80b834/embed"></iframe>
+			<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+				<a href="https://sketchfab.com/3d-models/boite-fruits-2-de4ad7ad9a5a4677958bbb2fce80b834?utm_medium=embed&utm_campaign=share-popup&utm_content=de4ad7ad9a5a4677958bbb2fce80b834" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> BOITE FRUITS 2 </a> by <a href="https://sketchfab.com/ConfiserieArtLorraine?utm_medium=embed&utm_campaign=share-popup&utm_content=de4ad7ad9a5a4677958bbb2fce80b834" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> ConfiserieArtLorraine </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=de4ad7ad9a5a4677958bbb2fce80b834" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
